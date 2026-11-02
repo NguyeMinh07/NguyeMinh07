@@ -3,11 +3,11 @@
 ### A passionate developer from around the world
 
 <p align="center">
-  <img src="https://images.wallhaven.cc/wallhaven/full/qr/wallhaven-qrp11q.jpg" alt="Goku Cyberpunk Wallpaper" width="100%" />
+  <img src="https://i.imgur.com/k6A0v8C.jpeg" alt="Goku Wallpaper" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile_Views-100%2B-0e75b6?style=flat&logo=github" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NguyeMinh07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I'm currently working on **Software Engineering Student x IUH**
@@ -25,7 +25,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=NguyeMinh07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyeMinh07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
   <br/><br/>
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=NguyeMinh07&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyeMinh07&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
 </p>
