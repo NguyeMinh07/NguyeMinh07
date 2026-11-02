@@ -23,10 +23,3 @@
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,c,py,java,postgres,figma,vscode,git,github" alt="My Skills" /></a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=NguyeMinh07&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <br/><br/>
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=NguyeMinh07&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
-</p>
