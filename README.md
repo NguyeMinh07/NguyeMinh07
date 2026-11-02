@@ -18,6 +18,3 @@
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,css,figma,html,java,js,python,postgres,vscode,git,github" alt="My Skills" /></a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
